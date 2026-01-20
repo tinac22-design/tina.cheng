@@ -18,7 +18,6 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 5. **From the Paragraph Tag list, select `Numbered`.**
 
 6. **In the number format field, choose `<n+>`.**  
-   Any text entered after `<n+>` appears after the number in the document.
 
 7. **Enter `/t` to add one tab space** between the number and the text.
 
