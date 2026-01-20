@@ -4,7 +4,7 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 
 ## To edit a numbered list:
 
-1. **From the menu bar, select `Format`.**  
+1. From the menu bar, select **Format**.  
    A drop-down menu opens.
 
 2. **Select `Paragraph`.**  
@@ -13,7 +13,7 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 3. **Choose `Designer`.**  
    The **Paragraph Designer** window opens.
 
-4. **Select the `Numbering` tab.**
+4. Select the **Numbering**` tab.
 
 5. **From the Paragraph Tag list, select `Numbered`.**
 
