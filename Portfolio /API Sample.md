@@ -35,5 +35,11 @@ To configure a template, you create **text replacements** for dynamic values suc
 
 `http://ad.example.com/adj/sitename/[ad.site];pos=[ad.size];seq=[ad.sequence];sz=[ad.width]x[ad.height];ord=[page.rand]?`
 
+## Example Ad URL: Image Format
+
+The following is an example of an **Image ad call** using a custom ad server URL. The URL is displayed as plain text and will not be clickable in GitHub:
+
+'http://ad.doubleclick.net/ad/shz.wdbj7/\[ad.wncc:acmezone\];pos=\[ad.width\]x\[ad.height\]\[ad.wnsz:acmepos\];dcopt=\[ad.sequence:acmedcopt\];tile=\[ad.sequence\];sz=\[ad.width\]x\[ad.height\];ord=\[page.rand\]?'
+
 
 
