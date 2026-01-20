@@ -1,5 +1,6 @@
 # Tina Cheng – Technical Writing Portfolio
 
+## About Me
 Documentation specialist with 10+ years of experience creating
 clear, user-focused documentation for content and learning
 management systems.
@@ -11,7 +12,7 @@ management systems.
 - XML / structured content
 - QA and documentation standards
 
-## Writing Samples
+## Portfolio
 - [User Guide – CMS Platform](samples/user-guide.md)
 - [Training Manual Excerpt (PDF)](samples/training-manual.pdf)
 - [API Overview (Sample)](samples/api-overview.md)
@@ -22,3 +23,5 @@ management systems.
 - Confluence
 - XML-based CMS
 - Adobe Acrobat
+
+## Contact
