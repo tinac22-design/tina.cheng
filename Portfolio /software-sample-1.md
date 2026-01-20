@@ -19,7 +19,7 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 
 6. **In the number format field, choose `<n+>`.**  
 
-7. **Enter `/t` to add one tab space** between the number and the text.
+7. **Enter `/t` to add a tab space** between the number and the text.
 
 8. **Click `Update All` to apply the changes.**
 
