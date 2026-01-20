@@ -1,6 +1,6 @@
 # Ad URL Templates – API Documentation
 
-This sample API document was developed in collaboration with the developer and focuses on Ad URL Templates.
+This is a sample API document and focuses on Ad URL Templates.
 
 
 ## Overview
