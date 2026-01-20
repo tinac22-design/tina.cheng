@@ -15,9 +15,9 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 
 4. Select the **Numbering**` tab.
 
-5. From the Paragraph Tag list, select `**Numbered**.
+5. From the **Paragraph Tag** list, select `**Numbered**.
 
-6. In the number format field, choose `**<n+>`**.  
+6. In the number format field, choose **<n+>**.  
 
 7. Type `/t` to add a tab space between the number and the text.
 
