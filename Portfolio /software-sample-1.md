@@ -7,7 +7,7 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 1. From the menu bar, select **Format**.  
    A drop-down menu opens.
 
-2. Select **Paragraph**.**  
+2. Select **Paragraph**.  
    A sub-menu opens.
 
 3. Choose **Designer**.  
