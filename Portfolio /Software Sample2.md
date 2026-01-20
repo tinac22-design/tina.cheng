@@ -1,34 +1,34 @@
-# Set Up Handheld Devices
+# Set Up Mobile Devices
 
-Before using your application on handheld devices via a remote desktop connection, you must configure handheld settings in the **Back Office**.
+Before using your application on mobile devices via a remote desktop connection, you must configure mobile settings in the **Back Office**.
 
 ---
 
-## Step 1: Add Handheld to System Devices
+## Step 1: Add Mobile to System Devices
 
-Each handheld device must be added to **System Devices** in the Back Office.  
+Each mobile device must be added to **System Devices** in the Back Office.  
 
-> **Note:** If a handheld is not added, the program will run in **demo mode** on that device.
+> **Note:** If a mobile is not added, the program will run in **demo mode** on that device.
 
-### To add a handheld:
+### To add a mobile:
 
 1. Log into the Back Office and select **Settings**.
 2. Click **System Devices**.
 3. Select **Terminals** and click **Add Terminal**.
-4. Enter the **Computer Name** (retrieved from the handheld device settings).  
+4. Enter the **Computer Name** (retrieved from the mobile device settings).  
    Optionally, enter a **Description** for reference—it appears in the **Terminals** area in System Devices.
 5. Click **OK**.
 6. Click **File** → **Save** to save your changes.
 
 ---
 
-## Step 2: Activate Handheld Terminals
+## Step 2: Activate Terminals
 
-Activate the handheld option in **System Devices** to enable Fusion for handheld use.  
+Activate the mobile option in **System Devices** to enable program for mobile use.  
 
-> **Note:** You must activate this option for each handheld device. Depending on the device type, it is recommended to customize the screen and layout. See *Configure Fusion for Handhelds* for details.
+> **Note:** You must activate this option for each mobile device. Depending on the device type, it is recommended to customize the screen and layout. See *Configur for Handheld Device* for details.
 
-### To activate handheld terminals:
+### To activate mobile terminals:
 
 1. In **System Devices** (Back Office → Settings), select **Terminals**.
 2. Go to the **General Info 2** tab (second row of tabs).
@@ -39,4 +39,4 @@ Activate the handheld option in **System Devices** to enable Fusion for handheld
 ---
 
 **Result:**  
-Handheld devices are now configured and activated for use with the application. Each device added and activated will function correctly outside demo mode.
+The devices are now configured and activated for use with the application. Each device added and activated will function correctly outside demo mode.
