@@ -36,3 +36,5 @@ To configure a template, you create **text replacements** for dynamic values suc
 ```text
 http://ad.example.com/adj/sitename/[ad.site];pos=[ad.size];seq=[ad.sequence];sz=[ad.width]x[ad.height];ord=[page.rand]?
 
+### Example – Custom Template Example
+
