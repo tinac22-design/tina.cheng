@@ -8,9 +8,9 @@ Before using your application on mobile devices via a remote desktop connection,
 
 Each mobile device must be added to **System Devices** in the Back Office.  
 
-> **Note:** If a mobile is not added, the program will run in **demo mode** on that device.
+> **Note:** If a mobile device is not added, the program will run in **demo mode** on that device.
 
-### To add a mobile:
+### To add a mobile device:
 
 1. Log into the Back Office and select **Settings**.
 2. Click **System Devices**.
