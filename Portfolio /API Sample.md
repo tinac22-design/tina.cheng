@@ -70,6 +70,5 @@ All macros contain the following components:
 | `ad.id`                | ID of the ad |
 | `ad.width`              | Width of the ad |
 
-> ⚠️ **Note:** Predefined macros allow you to automate ad configurations and ensure consistent ad behavior across your site.
 
 
