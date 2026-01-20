@@ -4,7 +4,7 @@ Before using your application on mobile devices via a remote desktop connection,
 
 ---
 
-## Step 1: Add Mobile to System Devices
+## Step 1: Add Mobile  Device to System Devices
 
 Each mobile device must be added to **System Devices** in the Back Office.  
 
