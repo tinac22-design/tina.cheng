@@ -12,7 +12,7 @@ management systems.
 - XML / structured content
 - QA and documentation standards
 
-## Portfolio
+## Writing Samples
 - [User Guide – CMS Platform](samples/user-guide.md)
 - [Training Manual Excerpt (PDF)](samples/training-manual.pdf)
 - [API Overview (Sample)](samples/api-overview.md)
