@@ -12,7 +12,7 @@ An **Ad URL Template** is a URL structure used to request ads from an ad server.
 
 **Example:**
 
-[http://www.exampleadserver.com/news/width=300/height=250/ ]
+`http://www.exampleadserver.com/news/width=300/height=250/`
 
 ---
 
@@ -34,7 +34,7 @@ To configure a template, you create **text replacements** for dynamic values suc
 ### Example – JavaScript Ad Template
 
 ```text
-http://ad.example.com/adj/sitename/[ad.site];pos=[ad.size];seq=[ad.sequence];sz=[ad.width]x[ad.height];ord=[page.rand]?
+`http://ad.example.com/adj/sitename/[ad.site];pos=[ad.size];seq=[ad.sequence];sz=[ad.width]x[ad.height];ord=[page.rand]?`
 
 ### Example – Custom Template Example
 
