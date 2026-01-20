@@ -15,7 +15,7 @@ management systems.
 ## Writing Samples
 - [Software - Writing Sample #1](Portfolio%20/software-sample-1.md)
 - [Software - Writing Sample #2](Portfolio%20/software-sample-2.md)
-- [API Writing Sample](Portfolio%20/software-sample-1.md)
+- [API Writing Sample](Portfolio%20/API-sample.md)
 
 
 
