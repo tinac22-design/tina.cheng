@@ -68,7 +68,7 @@ All macros contain the following components:
 | Text Replacement Macro | Description |
 |------------------------|------------|
 | `ad.id`                | ID of the ad |
-| `ad.wnsz`              | Unique ad ID. Used to differentiate multiple ads with the same dimensions (e.g., Medium Rectangle A vs. Medium Rectangle B) |
+| `ad.width`              | Width of the ad |
 
 > ⚠️ **Note:** Predefined macros allow you to automate ad configurations and ensure consistent ad behavior across your site.
 
