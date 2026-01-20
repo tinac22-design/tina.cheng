@@ -4,6 +4,17 @@ Ad URL Templates define how your website communicates with an ad server to deliv
 
 ---
 
+## Table of Contents
+
+1. [What is an Ad URL Template?](#what-is-an-ad-url-template)
+2. [Supported Ad Formats](#supported-ad-formats)
+3. [Setting Up an Ad URL Template](#setting-up-an-ad-url-template)
+    - [JavaScript Example](#javascript-example)
+    - [Custom Template Example](#custom-template-example)
+4. [Summary](#summary)
+
+---
+
 ## What is an Ad URL Template?
 
 An **Ad URL Template** is a URL structure used to request ads from an ad server. Templates can be configured for most industry-standard third-party ad servers.  
