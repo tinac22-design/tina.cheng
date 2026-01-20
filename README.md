@@ -13,9 +13,9 @@ management systems.
 - QA and documentation standards
 
 ## Writing Samples
-- [User Guide – CMS Platform](samples/user-guide.md)
-- [Training Manual Excerpt (PDF)](samples/training-manual.pdf)
-- [API Overview (Sample)](samples/api-overview.md)
+- [User Guide – CMS Platform](samples/Software Sample.md)
+- [Training Manual Excerpt (PDF)](samples/Software Sample2.md)
+- [API Overview (Sample)](samples/API Sample.md)
 
 ## Tools
 - GitHub
