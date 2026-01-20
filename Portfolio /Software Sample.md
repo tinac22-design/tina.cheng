@@ -1,25 +1,25 @@
-Editing a Numbered List Using the Paragraph Designer
+# Edit a Numbered List Using the Paragraph Designer
 
-Use the Paragraph Designer to edit existing paragraph formats or create new paragraph tags in the Paragraph Catalog. You can also use it to apply bullet or numbered lists and adjust tab spacing within numbered lists.
+Use the **Paragraph Designer** to edit existing formats or create new paragraph tags in the **Paragraph Catalog**. You can control numbering styles, bullet formats, and tab spacing for numbered lists.
 
-To edit a numbered list using the Paragraph Designer
+## To edit a numbered list:
 
-From the menu bar, select Format.
-A drop-down menu appears.
+1. **From the menu bar, select `Format`.**  
+   A drop-down menu opens.
 
-Select Paragraph.
-A sub-menu opens.
+2. **Select `Paragraph`.**  
+   A sub-menu opens.
 
-Choose Designer.
-The Paragraph Designer window opens.
+3. **Choose `Designer`.**  
+   The **Paragraph Designer** window opens.
 
-Select the Numbering tab.
+4. **Select the `Numbering` tab.**
 
-From the Paragraph Tag list, select Numbered.
+5. **From the Paragraph Tag list, select `Numbered`.**
 
-Choose <n+> to set the number format.
-Any text entered after <n+> appears after the number in the document.
+6. **In the number format field, choose `<n+>`.**  
+   Any text entered after `<n+>` appears after the number in the document.
 
-Choose /t to set one tab space.
+7. **Enter `/t` to add one tab space** between the number and the text.
 
-Click Update All to apply the changes.
+8. **Click `Update All` to apply the changes.**
