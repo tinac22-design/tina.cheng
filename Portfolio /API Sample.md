@@ -41,5 +41,35 @@ The following is an example of an **Image ad call** using a custom ad server URL
 
 `http://ad.doubleclick.net/ad/shz.wdbj7/\[ad.wncc:acmezone\];pos=\[ad.width\]x\[ad.height\]\[ad.wnsz:acmepos\];dcopt=\[ad.sequence:acmedcopt\];tile=\[ad.sequence\];sz=\[ad.width\]x\[ad.height\];ord=\[page.rand\]?`
 
+## Text Replacement Macros
+
+**Text Replacement Macros** specify the parameters for an ad in the ad template. They can be used to define ad dimensions, ad sequence, pages where ads appear, and other relevant information. You can mix and match macros, and even define new ones for your ad template.
+
+---
+
+### Macro Structure
+
+All macros contain the following components:
+
+- Opening square bracket `[`
+- Replacement keyname namespace
+- A dot `.`
+- Replacement keyname
+- (Optional) a semicolon `;` followed by a parsing function
+- Closing square bracket `]`
+
+> 💡 **Example Structure:**  
+> `[namespace.key;function]`
+
+---
+
+### Predefined Text Replacement Macro Values
+
+| Text Replacement Macro | Description |
+|------------------------|------------|
+| `ad.id`                | ID of the ad |
+| `ad.wnsz`              | Unique ad ID. Used to differentiate multiple ads with the same dimensions (e.g., Medium Rectangle A vs. Medium Rectangle B) |
+
+> ⚠️ **Note:** Predefined macros allow you to automate ad configurations and ensure consistent ad behavior across your site.
 
 
