@@ -14,3 +14,15 @@ An **Ad URL Template** is a URL structure used to request ads from an ad server.
 
 ```text
 http://www.exampleadserver.com/news/width=300/height=250/
+
+Supported Ad Formats
+
+Ad templates support several types of ad calls:
+
+Iframe: Used on standard web pages for most front-end ads.
+
+JavaScript: Supports dynamic ads such as expandable or interactive units.
+
+Image: Displays ads on pages without XHTML or JavaScript support, and in email campaigns.
+
+Raw: Returns XML creatives for video ad platforms.
