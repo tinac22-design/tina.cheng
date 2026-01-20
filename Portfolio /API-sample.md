@@ -1,4 +1,4 @@
-# Ad URL Templates: A Technical Guide
+# Ad URL Templates
 
 Ad URL Templates define how your website communicates with an ad server to deliver ads. They are essential for configuring ad calls across web pages, email campaigns, and video platforms. This guide explains the key concepts, ad formats, and setup procedures for creating effective templates.
 
