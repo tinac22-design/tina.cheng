@@ -7,21 +7,21 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 1. From the menu bar, select **Format**.  
    A drop-down menu opens.
 
-2. **Select `Paragraph`.**  
+2. Select **Paragraph**.**  
    A sub-menu opens.
 
-3. **Choose `Designer`.**  
+3. Choose **Designer**.  
    The **Paragraph Designer** window opens.
 
 4. Select the **Numbering**` tab.
 
-5. **From the Paragraph Tag list, select `Numbered`.**
+5. From the Paragraph Tag list, select `**Numbered**.
 
-6. **In the number format field, choose `<n+>`.**  
+6. In the number format field, choose `**<n+>`**.  
 
-7. **Enter `/t` to add a tab space** between the number and the text.
+7. Type `/t` to add a tab space between the number and the text.
 
-8. **Click `Update All` to apply the changes.**
+8. Click **Update All** to apply the changes.
 
 # The Paragraph Designer: Symbols & Actions
 
