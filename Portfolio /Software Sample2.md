@@ -26,7 +26,7 @@ Each mobile device must be added to **System Devices** in the Back Office.
 
 Activate the mobile option in **System Devices** to enable the program for mobile use.  
 
-> **Note:** You must activate the mobile option for each mobile device. Depending on the device type, it is recommended to customize the screen and layout. See *Configure for Handheld Device* for details.
+> **Note:** You must activate the mobile option for each mobile device. Depending on the device type, it is recommended to customize the screen and layout. 
 
 ### To activate mobile terminals:
 
