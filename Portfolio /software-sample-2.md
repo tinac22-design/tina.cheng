@@ -1,3 +1,5 @@
+This writing sample was developed while working directly with the software, using input from the developer to produce a tutorial on integrating a mobile device.
+
 # Set Up Mobile Devices
 
 Before using your application on a mobile device via remote desktop connection, you must configure mobile settings in the Back Office.
