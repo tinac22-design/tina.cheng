@@ -25,4 +25,4 @@ management systems.
 - Adobe Acrobat
 
 ## Contact
-git config --global user.email "tinac22@gmail.com"
+tinac22@gmail.com
