@@ -32,6 +32,9 @@ Here are a few examples of my work:
 - Adobe FrameMaker
 - Madcap Flare
 
+
 ## Contact
-tinac22@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tina-c-0b182822/
+- Email: tinac22@gmail.com
+
 
