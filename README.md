@@ -15,8 +15,9 @@ management systems.
 ## Writing Samples
 - [User Guide – CMS Platform](samples/Software Sample.md)
 - [Training Manual Excerpt (PDF)](samples/Software Sample2.md)
-- [API Overview (Sample)](samples/API Sample.md)
+- [API Overview (Sample)](API Sample.md). 
 - [Link Text](OtherPage.md)
+- - [Link Text](APIsample.md)
 
 ## Tools
 - GitHub
