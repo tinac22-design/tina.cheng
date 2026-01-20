@@ -1,3 +1,5 @@
+This writing sample demonstrates the use of a feature in Adobe FrameMaker.
+
 # Edit a Numbered List Using the Paragraph Designer
 
 Use the **Paragraph Designer** to edit existing formats or create new paragraph tags in the **Paragraph Catalog**. You can control numbering styles, bullet formats, and tab spacing for numbered lists.
