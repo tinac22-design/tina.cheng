@@ -13,12 +13,11 @@ management systems.
 - QA and documentation standards
 
 ## Writing Samples
-- [User Guide – CMS Platform](Portfolio%20\software-sample-1.md)
-- [Training Manual Excerpt (PDF)](Portfolio\software-sample-2.md)
-- [API Overview (Sample)](API-Sample.md). 
-- [Link Text](OtherPage.md)
-[Software Samples](Portfolio%20/software-sample-1.md)
-.(Portfolio%20/software-sample-1.md).
+- [Software - Writing Sample #1](Portfolio%20/software-sample-1.md)
+- [Software - Writing Sample #2](Portfolio%20/software-sample-2.md)
+- [API Writing Sample](Portfolio%20/software-sample-1.md)
+
+
 
 ## Tools
 - GitHub
