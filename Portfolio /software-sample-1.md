@@ -1,6 +1,6 @@
 # Adobe FrameMaker – Paragraph Designer
 
-*This writing sample demonstrates how to use a feature in Adobe FrameMaker. I wrote these steps while working directly in the software.*
+*This writing sample demonstrates how to use a feature in Adobe FrameMaker. These steps were created while using the software directly.
 
 ## Edit a Numbered List Using the Paragraph Designer
 
