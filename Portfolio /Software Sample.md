@@ -29,7 +29,7 @@ Press **CTRL + M** to quickly access the Paragraph Designer.
 
 ## Table 1: Symbols and Actions
 
-| Building Block Symbol | Action |
+| Symbol | Action |
 |----------------------|--------|
 | `/t`                 | Adds a tab space |
 | `/b`                 | Sets bullets |
