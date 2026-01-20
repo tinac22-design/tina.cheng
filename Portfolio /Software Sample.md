@@ -36,5 +36,5 @@ Press **CTRL + M** to quickly access the Paragraph Designer.
 | `/b`                 | Sets bullets |
 | `<n>`                | Sets the number 1 |
 | `<a+>/./t`           | Sets a letter list |
-| `<n+
+
 
