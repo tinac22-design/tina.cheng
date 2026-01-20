@@ -1,18 +1,20 @@
+# Mobile Device Integration Tutorial
+
 This writing sample was developed while working directly with the software, using input from the developer to produce a tutorial on integrating a mobile device.
 
-# Set Up Mobile Devices
+## Set Up Mobile Devices
 
 Before using your application on a mobile device via remote desktop connection, you must configure mobile settings in the Back Office.
 
 ---
 
-## Step 1: Add Mobile  Device to System Devices
+### Step 1: Add Mobile  Device to System Devices
 
 Each mobile device must be added to **System Devices** in the Back Office.  
 
 > **Note:** If a mobile device is not added, the program will run in **demo mode** on the device.
 
-### To add a mobile device:
+#### To add a mobile device:
 
 1. Log into the Back Office and select **Settings**.
 2. Click **System Devices**.
@@ -24,13 +26,13 @@ Each mobile device must be added to **System Devices** in the Back Office.
 
 ---
 
-## Step 2: Activate Terminals
+### Step 2: Activate Terminals
 
 Activate the mobile option in **System Devices** to enable the program for mobile use.  
 
 > **Note:** You must activate the mobile option for each mobile device. Depending on the device type, it is recommended to customize the screen and layout. 
 
-### To activate mobile terminals:
+#### To activate mobile terminals:
 
 1. In **System Devices** (Back Office → Settings), select **Terminals**.
 2. Go to the **General Info 2** tab (second row of tabs).
