@@ -15,8 +15,8 @@ An **Ad URL Template** is a URL structure used to request ads from an ad server.
 ```text
 http://www.exampleadserver.com/news/width=300/height=250/
 
-## What is an Ad URL Template?
-## Supported Ad Formats
+### What is an Ad URL Template?
+# Supported Ad Formats
 
 Ad templates support several types of ad calls:
 
