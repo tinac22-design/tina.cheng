@@ -32,7 +32,7 @@ Press **CTRL + M** to quickly access the Paragraph Designer.
 
 | Building Block Symbol | Action |
 |----------------------|--------|
-| `/t`                 | Sets a tab space |
+| `/t`                 | Adds a tab space |
 | `/b`                 | Sets bullets |
 | `<n>`                | Inserts the paragraph number for a numbered list |
 | `<a+>/./t`           | Sets a list of letters (e.g., a, b, c) |
