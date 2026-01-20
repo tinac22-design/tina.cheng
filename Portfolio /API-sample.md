@@ -1,10 +1,15 @@
-# Ad URL Templates
+# Ad URL Templates – API Documentation
+
+This sample API document was developed in collaboration with the developer and focuses on Ad URL Templates.
+
+
+## Overview
 
 Ad URL Templates define how your website communicates with an ad server to deliver ads. They are essential for configuring ad calls across web pages, email campaigns, and video platforms. This guide explains the key concepts, ad formats, and setup procedures for creating effective templates.
 
 ---
 
-## What is an Ad URL Template?
+### What is an Ad URL Template?
 
 An **Ad URL Template** is a URL structure used to request ads from an ad server. Templates can be configured for most industry-standard third-party ad servers.  
 
@@ -16,7 +21,7 @@ An **Ad URL Template** is a URL structure used to request ads from an ad server.
 
 ---
 
-## Supported Ad Formats
+### Supported Ad Formats
 
 Ad templates support several types of ad calls:
 
@@ -27,27 +32,27 @@ Ad templates support several types of ad calls:
 
 ---
 
-## Setting Up an Ad URL Template
+### Setting Up an Ad URL Template
 
 To configure a template, you create **text replacements** for dynamic values such as ad size, position, and sequence. Templates can use **predefined system variables** or **custom variables** defined for your website.
 
-### Example – JavaScript Ad Template
+#### Example – JavaScript Ad Template
 
 `http://ad.example.com/adj/sitename/[ad.site];pos=[ad.size];seq=[ad.sequence];sz=[ad.width]x[ad.height];ord=[page.rand]?`
 
-### Example Ad URL: Image Format
+#### Example Ad URL: Image Format
 
 The following is an example of an **Image ad call** using a custom ad server URL. 
 
 `http://ad.doubleclick.net/ad/shz.wdbj7/\[ad.wncc:acmezone\];pos=\[ad.width\]x\[ad.height\]\[ad.wnsz:acmepos\];dcopt=\[ad.sequence:acmedcopt\];tile=\[ad.sequence\];sz=\[ad.width\]x\[ad.height\];ord=\[page.rand\]?`
 
-## Text Replacement Macros
+### Text Replacement Macros
 
 **Text Replacement Macros** specify the parameters for an ad in the ad template. They can be used to define ad dimensions, ad sequence, pages where ads appear, and other relevant information. You can mix and match macros, and even define new ones for your ad template.
 
 ---
 
-### Macro Structure
+#### Macro Structure
 
 All macros contain the following components:
 
@@ -63,7 +68,7 @@ All macros contain the following components:
 
 ---
 
-### Predefined Text Replacement Macro Values
+#### Predefined Text Replacement Macro Values
 
 | Text Replacement Macro | Description |
 |------------------------|------------|
