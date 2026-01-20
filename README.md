@@ -17,7 +17,8 @@ management systems.
 - [Training Manual Excerpt (PDF)](Portfolio\software-sample-2.md)
 - [API Overview (Sample)](API-Sample.md). 
 - [Link Text](OtherPage.md)
-[Software Samples](Portfolio/software-sample-1.md)
+[Software Samples](Portfolio%20/software-sample-1.md)
+.(Portfolio%20/software-sample-1.md).
 
 ## Tools
 - GitHub
