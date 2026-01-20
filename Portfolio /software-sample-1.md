@@ -1,10 +1,12 @@
-This writing sample demonstrates the use of a feature in Adobe FrameMaker.
+# Adobe FrameMaker – Paragraph Designer
 
-# Edit a Numbered List Using the Paragraph Designer
+*This writing sample demonstrates how to use a feature in Adobe FrameMaker.*
+
+## Edit a Numbered List Using the Paragraph Designer
 
 Use the **Paragraph Designer** to edit existing formats or create new paragraph tags in the **Paragraph Catalog**. You can control numbering styles, bullet formats, and tab spacing for numbered lists.
 
-## To edit a numbered list:
+### To edit a numbered list:
 
 1. From the menu bar, select **Format**.  
    A drop-down menu opens.
@@ -29,7 +31,7 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 
 Press **CTRL + M** to quickly access the Paragraph Designer.
 
-## Table 1: Symbols and Actions
+### Table 1: Symbols and Actions
 
 | Symbol | Action |
 |----------------------|--------|
