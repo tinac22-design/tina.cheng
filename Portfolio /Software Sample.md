@@ -23,3 +23,18 @@ Use the **Paragraph Designer** to edit existing formats or create new paragraph 
 7. **Enter `/t` to add one tab space** between the number and the text.
 
 8. **Click `Update All` to apply the changes.**
+
+# The Paragraph Designer: Symbols & Actions
+
+Press **CTRL + M** to quickly access the Paragraph Designer.
+
+## Table 1: Symbols and Actions
+
+| Building Block Symbol | Action |
+|----------------------|--------|
+| `/t`                 | Sets a tab space |
+| `/b`                 | Sets bullets |
+| `<n>`                | Sets the number 1 |
+| `<a+>/./t`           | Sets a letter list |
+| `<n+
+
