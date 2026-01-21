@@ -9,7 +9,9 @@ I’m a Technical Writer with experience creating documentation for healthcare, 
 - Content management systems (CMS)
 - XML / structured content
 - QA and documentation standards
+- AI tools for documentation
 - Advanced formatting
+
 
 ---
 
@@ -24,7 +26,6 @@ Here are a few examples of my work:
 
 ## Tools
 - GitHub
-- Markdown
 - Confluence
 - XML-based CMS
 - HTML
@@ -32,6 +33,7 @@ Here are a few examples of my work:
 - SharePoint
 - Adobe FrameMaker
 - Madcap Flare
+  
 
 
 ## Contact
