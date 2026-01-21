@@ -1,7 +1,7 @@
 
 # Tina Cheng – Technical Writer & Documentation Specialist
 
-I’m a technical writer and documentation specialist with 10+ years of experience creating clear, user-focused content for software, web platforms, enterprise systems, and learning management systems. I enjoy collaborating with subject matter experts to ensure documentation is accurate, practical, and helps users get the most out of the systems they rely on.
+I’m a Technical Writer with experience creating documentation for healthcare, web platforms, and software. I specialize in advanced formatting, template development, and CMS administration, delivering content that is accurate, consistent, and easy to use.
 
 - ## Skills
 - Technical documentation
@@ -9,6 +9,7 @@ I’m a technical writer and documentation specialist with 10+ years of experien
 - Content management systems (CMS)
 - XML / structured content
 - QA and documentation standards
+- Advanced formatting
 
 ---
 
