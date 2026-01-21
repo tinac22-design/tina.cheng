@@ -19,7 +19,7 @@ Technical Writer with experience in healthcare, web platforms, and software docu
 
 Here are a few examples of my work:
 
-- [Software - Writing Sample #1](Portfolio%20/software-sample-1.md) – Hands-on documentation sample.  
+- [Software - Writing Sample #1](Portfolio%20/software-sample-1.md) – Hands-on documentation sample (Adobe FrameMaker)
 - [Software - Writing Sample #2](Portfolio%20/software-sample-2.md) – Tutorial developed through direct use of the software.
 - [API Writing Sample](Portfolio%20/API-sample.md) – Sample API doc created with developer input.  
 
