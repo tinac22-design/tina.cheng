@@ -1,7 +1,7 @@
 # Tina Cheng
 ## Technical Writing Portfolio
 
-Documentation Specialist with 10+ years of experience creating user-focused documentation for content management systems, healthcare, and software. Experienced in formatting, workflow optimization, and translating complex information into clear, accurate materials.
+Documentation Specialist with 10+ years of experience creating user-focused documentation for content management systems, healthcare, and software. Experienced in formatting, editing, workflow optimization, and translating complex information into clear, accurate materials.
 
 ### Skills
 - Technical documentation
