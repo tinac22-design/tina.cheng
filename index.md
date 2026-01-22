@@ -1,7 +1,7 @@
 # Tina Cheng
 ## Technical Writing Portfolio
 
-Technical Writer / Documentation Specialist with 10+ years of experience creating user-focused documentation for healthcare, software, and content management systems. Skilled in formatting, editing, optimizing workflows, and translating complex information into clear, accurate materials.
+Technical Writer with experience in healthcare, web platforms, and software documentation | Skilled in advanced formatting, templates, editing, CMS tools, and collaborating with subject matter experts to create clear, user-friendly content.
 
 ### Skills
 - Technical documentation
