@@ -3,6 +3,7 @@
 
 Specializing in high-quality documentation for healthcare systems, web apps, and software solutions. | Skilled in advanced formatting, templates, editing, CMS tools, and collaborating with subject matter experts to create clear, user-friendly content.
 
+
  ## Skills
 - Technical documentation
 - Training manuals
@@ -33,6 +34,9 @@ Here are a few examples of my work:
 - SharePoint
 - Adobe FrameMaker
 - Madcap Flare
+  
+
+
   
 
 
