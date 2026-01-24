@@ -3,7 +3,7 @@
 
 Documentation specialist creating clear, user‑friendly documentation for healthcare, web platforms, and software systems. Experienced in advanced formatting, editing, template design, CMS/LMS tools, and working with SMEs to create accurate, well‑structured content.
 
----
+
  ## Skills
 - Technical documentation
 - Training manuals
