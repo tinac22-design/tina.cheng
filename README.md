@@ -1,7 +1,7 @@
 
 # Tina Cheng – Technical Writer & Documentation Specialist
 
-Technical writer creating clear, user‑friendly documentation for healthcare, web platforms, and software systems. Experienced in advanced formatting, template design, CMS/LMS tools, and working with SMEs to create accurate, well‑structured content.
+Documentation specialist creating clear, user‑friendly documentation for healthcare, web platforms, and software systems. Experienced in advanced formatting, template design, CMS/LMS tools, and working with SMEs to create accurate, well‑structured content.
 
 
  ## Skills
