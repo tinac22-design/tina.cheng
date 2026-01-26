@@ -13,6 +13,7 @@ Documentation specialist creating clear, user‑friendly content for healthcare,
 - QA and documentation standards
 - AI tools for documentation
 - Advanced formatting
+- SEO
 
 
 ---
