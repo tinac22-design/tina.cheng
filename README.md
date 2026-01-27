@@ -1,7 +1,7 @@
 
 # Tina Cheng 
 
-Documentation specialist creating clear, user‑friendly content for healthcare, web platforms, and software systems. Skilled in advanced formatting, editing, template design, CMS/LMS tools, and collaborating with SMEs to deliver accurate, well‑structured documentation.
+I create clear, user-friendly documentation for healthcare, web, and software systems. Skilled in formatting, editing, templates, and CMS/LMS tools, with a focus on accuracy and structure. Examples of my work are below.
 
 
 
