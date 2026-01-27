@@ -10,9 +10,9 @@ I create clear, user-friendly documentation for web platforms, software systems 
 - Content management systems (CMS)
 - XML / structured content
 - QA and documentation standards
-- AI tools for documentation
 - Advanced formatting
 - SEO
+- - AI tools for documentation
 
 
 ---
