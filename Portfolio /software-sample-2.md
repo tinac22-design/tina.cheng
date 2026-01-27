@@ -1,6 +1,6 @@
 # Mobile Device Integration Tutorial
 
-This writing sample was developed while working directly with the software, using input from the developer to produce a tutorial on integrating a mobile device.
+I produced a tutorial on mobile device integration through direct use of the software and collaboration with the developer.
 
 ## Set Up Mobile Devices
 
