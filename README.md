@@ -11,8 +11,9 @@ I create clear, user-friendly documentation for web platforms, software systems 
 - XML / structured content
 - QA and documentation standards
 - Advanced formatting
-- SEO
 - AI tools for documentation
+- SEO
+
 
 
 ---
