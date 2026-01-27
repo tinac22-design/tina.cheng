@@ -1,8 +1,7 @@
 
 # Tina Cheng 
 
-I create clear, user-friendly documentation for healthcare, web platforms, and software systems. I’m experienced in formatting, editing, templates, and CMS/LMS tools. Check out some of my writing samples below.
-
+I create clear, user-friendly documentation for web platforms, software systems and healthcare. My experience includes formatting, editing, template design, and working with CMS/LMS tools. Check out a few writing samples below.
 
 
  ## Skills
