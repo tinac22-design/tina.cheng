@@ -12,7 +12,7 @@ I create clear, user-friendly documentation for web platforms, software systems 
 - QA and documentation standards
 - Advanced formatting
 - SEO
-- - AI tools for documentation
+- AI tools for documentation
 
 
 ---
