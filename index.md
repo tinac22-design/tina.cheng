@@ -3,7 +3,7 @@
 
 I create clear, user-friendly documentation for healthcare, web platforms, and software systems. I’m experienced in formatting, editing, templates, and CMS/LMS tools. Check out some of my writing samples below.
 
- ## Skills
+## Skills
 - Technical documentation
 - Training manuals
 - Content management systems (CMS)
